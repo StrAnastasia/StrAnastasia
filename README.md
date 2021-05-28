@@ -10,8 +10,8 @@ Languages and Technologies:
 JavaScript ReactJS Redux MongoDB Express API NodeJS HTML CSS Photoshop
 
 💬 Mail me: strygina.nastya@yandex.ru
-💬 Telegram: @kjet_il 
-⬛ My GitHub Stats
+💬 Telegran: @kjet_il
+⬛ My GitHub Stats:
 
 <!--
 **StrAnastasia/StrAnastasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
