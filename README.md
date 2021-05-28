@@ -10,7 +10,11 @@ Languages and Technologies:
 JavaScript ReactJS Redux MongoDB Express API NodeJS HTML CSS Photoshop
 
 💬 Mail me: strygina.nastya@yandex.ru
-💬 Telegran: @kjet_il
+15
+💬 Telegram: @kjet_il 
+16
+⬛ My GitHub Stats<Br>
+💬 Telegram: @kjet_il
 ⬛ My GitHub Stats:
 
 <!--
