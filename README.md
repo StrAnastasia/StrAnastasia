@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+My name is Anastasia, I'm from Moscow! 🔭
+I am a Fullstack JavaScript developer. sunglasses
+I love  art, espicially music and video games. scream_cat
+
+Check my projects: Pod Podoshvoi (web), Pod Podoshvoi (telegram bot) and Proforientation (web).
+Languages and Technologies
+JavaScript ReactJS Redux MongoDB Express API NodeJS HTML CSS Photoshop
+
+speech_balloon Mail me: strygina.nastya@yandex.ru
+zap Telegram: @kjet_il
+chart_with_upwards_trend My GitHub Stats
+
 <!--
 **StrAnastasia/StrAnastasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
