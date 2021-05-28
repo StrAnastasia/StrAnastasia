@@ -12,6 +12,7 @@ JavaScript ReactJS Redux MongoDB Express API NodeJS HTML CSS Photoshop
 💬 Mail me: strygina.nastya@yandex.ru
 
 💬 Telegram: @kjet_il
+
 ⬛ My GitHub Stats:
 
 <!--
