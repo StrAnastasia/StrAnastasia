@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 My name is Anastasia, I'm from Moscow! 🔭
+I am a Fullstack JavaScript developer. 
+I love  art, espicially music and video games. 
 
-#####My name is Anastasia, I'm from Moscow! 🔭
-#####I am a Fullstack JavaScript developer. sunglasses
-#####I love  art, espicially music and video games. scream_cat
+Check my projects: [Pod Podoshvoi (web)](https://github.com/StrAnastasia/pod-podoshvoi-web),[Pod Podoshvoi (telegram bot)](https://github.com/StrAnastasia/pod-podoshvoi) and [Proforientation (web)](https://github.com/Schastlivitch/prof-orientation).
 
-Check my projects: Pod Podoshvoi (web), Pod Podoshvoi (telegram bot) and Proforientation (web).
+
 Languages and Technologies
 JavaScript ReactJS Redux MongoDB Express API NodeJS HTML CSS Photoshop
 
