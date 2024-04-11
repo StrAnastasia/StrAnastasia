@@ -7,12 +7,20 @@ I love  art, espicially music and video games.
 Check my [posrfolio](https://github.com/StrAnastasia/personal-site).
 
 Languages and Technologies:
-JavaScript & Typescript
+JavaScript & Typescript 
+
 HTML & CSS 
+ 
 React, Redux Toolkit, Next
-PostgreSQL, MongoDB, Express, Nuxt, Prisma  
+ 
+
+PostgreSQL, MongoDB, Express, Nuxt, Prisma   
+
 Styled Components, Mantine UI, Bootstrap, Tailwind, React-hook-form
+ 
 WebSocket
+ 
+
 Feature-Sliced Design, Domain-Driven Design
 
 
