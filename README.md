@@ -8,9 +8,7 @@ Check my [posrfolio](https://github.com/StrAnastasia/personal-site).
 
 Languages and Technologies:
  
-JavaScript & Typescript 
-
-HTML & CSS  
+JavaScript & Typescript, HTML & CSS  
 
 React, Redux Toolkit, Next
 
