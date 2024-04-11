@@ -9,11 +9,17 @@ Check my [posrfolio](https://github.com/StrAnastasia/personal-site).
 Languages and Technologies:
  
 JavaScript & Typescript 
-HTML & CSS 
+
+HTML & CSS  
+
 React, Redux Toolkit, Next
+
 Styled Components, Mantine UI, Bootstrap, Tailwind, React-hook-form
+
 PostgreSQL, MongoDB, Express, Nuxt, Prisma   
+
 WebSocket
+
 Feature-Sliced Design, Domain-Driven Design
 
 
