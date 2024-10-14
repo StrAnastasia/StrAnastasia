@@ -1,28 +1,24 @@
 ### Hi there 👋
 
 My name is Anastasia, I'm from Moscow! 🔭
-I am a Fullstack JavaScript developer. 
-I love  art, espicially music and video games. 
+I started studying web-development 3 years ago just to learn a new profession and earn my bread and butter. But when I understood the concept of IT I fell in love with the possibilities of this field. I enjoy learning new stuff globally and precisely. So currently I'm growing mostly as frontend-developer and for the last half a year as a backend-developer,but some day I'd love to try mobile-app and game development.
 
-Check my [posrfolio](https://github.com/StrAnastasia/personal-site).
+Check my [portfolio](https://github.com/StrAnastasia/personal-site).
 
 Languages and Technologies:
  
-JavaScript & Typescript, HTML & CSS  
-
-React, Redux Toolkit, Next
-
-Styled Components, Mantine UI, Bootstrap, Tailwind, React-hook-form
-
-PostgreSQL, MongoDB, Express, Nuxt, Prisma   
-
-WebSocket
-
+Node.js, JavaScript, TypeScript
+HTML, CSS
+React.js, Next.js, Vue.js
+Redux Toolkit, Effector, MobX
+Bootstrap, Mantine, emotion/react, Tailwind, Styled Components, radix-ui
+Axios, react-query
+Firebase, Passport, JWT and Auth0, hcaptcha
+Nest.js, Express, Prisma, knex, Mongo DB, SQL, MySQL, PostgreSQL
 Feature-Sliced Design, Domain-Driven Design
 
 
-💬 Mail me: strygina.nastya@yandex.ru
-
+💬 Mail me: anastasia.s.front.dev@gmail.com
 💬 Telegram: @kjet_il
 
 <!--
