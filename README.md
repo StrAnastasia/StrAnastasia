@@ -8,17 +8,26 @@ Check my [portfolio](https://github.com/StrAnastasia/personal-site).
 Languages and Technologies:
  
 Node.js, JavaScript, TypeScript
+
 HTML, CSS
+
 React.js, Next.js, Vue.js
+
 Redux Toolkit, Effector, MobX
+
 Bootstrap, Mantine, emotion/react, Tailwind, Styled Components, radix-ui
+
 Axios, react-query
+
 Firebase, Passport, JWT and Auth0, hcaptcha
+
 Nest.js, Express, Prisma, knex, Mongo DB, SQL, MySQL, PostgreSQL
+
 Feature-Sliced Design, Domain-Driven Design
 
 
 💬 Mail me: anastasia.s.front.dev@gmail.com
+
 💬 Telegram: @kjet_il
 
 <!--
